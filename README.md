@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Geeky-Wahab
-- 👀 I’m interested in Hybrid App development using flutter , Custom Roms , NodeJs and your heart
+- 👀 I’m interested in Hybrid App development using flutter , Custom Roms, IOS native
 - 🌱 I’m currently learning Self Discipline
-- 💞️ I’m looking to collaborate on NodeJs
+- 💞️ I’m looking to collaborate on IOS native
 - 📫 How to reach me abdul.wahab.tanveer009@gmail.com
 
 <!---
