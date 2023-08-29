@@ -19,10 +19,7 @@
 <p align="left">
 
        <p>
-       <a href="https://www.linkedin.com/in/abdul-wahab-tanveer-1959241b2/" target="_blank" rel="noreferrer">LinkedIn<a/>
-       <a href="https://twitter.com/Abdul_Wahab_786" target="_blank" rel="noreferrer">Twitter<a/>
-       <a href="https://www.facebook.com/profile.php?id=100016730132201" target="_blank" rel="noreferrer">Facebook<a/>
-       <a href="https://www.instagram.com/abdul__wahab__tanveer/" target="_blank" rel="noreferrer">Instagram<a/>
+       [Twitter](https://twitter.com/Abdul_Wahab_786)
        <p/>
 
 <h3 align="left">Languages and Tools:</h3>
