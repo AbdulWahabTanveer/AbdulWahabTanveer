@@ -23,9 +23,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://flutter.dev" target="_blank">Flutter <a/>  
-  <a href="https://developer.apple.com" target="_blank">IOS <a/> 
-  <a href="https://developers.google.com/" target="_blank">Google For Devs <a/> 
+  <a target="_blank" rel="noopener" href="https://flutter.dev" >Flutter <a/>  
+  <a target="_blank" rel="noopener" href="https://developer.apple.com" >IOS <a/> 
+  <a target="_blank" rel="noopener" href="https://developers.google.com/" >Google For Devs <a/> 
   </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulWahabTanveer&show_icons=true&locale=en" alt="peter-kimanzi" /></p>
