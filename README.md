@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [Coderzhunt](https://coderzhunt.com/)
 
-- 🌱 I’m currently learning **Storyboards**
+- 🌱 I’m currently learning **NestJs**
 
 - 👯 I’m looking to collaborate on **Flutter,AR,VR,AI,ML or Native Mobile apps**
 
