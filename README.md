@@ -53,11 +53,17 @@
 
 <h3>📍 Where to Find Me</h3>
 <p>
-  You can check out my code on GitHub and reach out via the links below. I'm always open to collaborating on interesting projects or discussing technology.
+  You can check out my code on GitHub, hire me on Upwork, or reach out via email. I'm always open to collaborating on interesting projects or discussing technology.
 </p>
 <p>
   <a href="https://github.com/AbdulWahabTanveer" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~019d570cf6d7d67670" target="_blank">
+    <img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="mailto:abdul.wahab.tanveer009@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
